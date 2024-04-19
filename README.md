@@ -14,7 +14,7 @@ If you use the data and models created under the CMU Multimodal SDK, please cons
 Data for MOSI and MOSEI: https://github.com/pliang279/MultiBench
 
 
-## CMU Multimodal Data SDK (mmdatasdk)
+## CMU Multimodal Dataset
 
 CMU-Multimodal Data SDK simplifies downloading and loading multimodal datasets. The module mmdatasdk treats each multimodal dataset as a combination of **computational sequences**. Each computational sequence contains information from one modality in a heirarchical format, defined in the continuation of this section. Computational sequences are self-contained and independent; they can be used to train models in isolation. They can be downloaded, shared and registered with our trust servers. This allows the community to share data and recreate results in a more elegant way using computational sequence intrgrity checks. Furthermore, this integrity check allows users to download the correct computational sequences. 
 
